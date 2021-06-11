@@ -3,7 +3,9 @@
 Some interesting PYTHON libraries and its implementation .
 
 Selenium
+
 Requests 
+
 BeautifulSoup
 
 

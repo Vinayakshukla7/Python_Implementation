@@ -8,4 +8,5 @@ Next, you'll need to create a service account and OAuth2 credentials from the Go
 4.	Head over to 'Credentials' (sidebar), click 'Create Credentials' -> 'Service Account Key'.
 5.	Provide Service account details and click on create and then done
 6.	Then get back and click on the listed service accounts then click on add key download the JSON file .which will be used further.
-7.	Click on Save , Done.
+7.	Add the new project id to sheet sharings .
+8.	Click on Save , Done.
